@@ -11,9 +11,5 @@ public class dad{
         int edad= obtenerNumero("Ingresa tu edad");
         if(edad>=18){
              System.out.println("Eres mayor de edad.");
-        }else
-        {
-             System.out.println("Ere menor de edad");
-        }
     }
 }
